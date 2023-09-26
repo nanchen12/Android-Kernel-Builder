@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi Mobile Phone Kernel OpenSource",
+      "name": "Xiaomi",
       "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "munch-s-oss",
-      "device": "nanchen",
-      "defconfig": "nanchen_test"
+      "device": "munch",
+      "defconfig": "munch_user_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
